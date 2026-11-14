@@ -1,0 +1,16 @@
+date,city,temperature,humidity,rainfall,wind_speed,weather_condition
+2026-01-01,Bangalore,24,68,2.5,12,Cloudy
+2026-01-01,Chennai,29,72,0.0,15,Sunny
+2026-01-01,Hyderabad,26,55,1.2,10,Cloudy
+2026-01-02,Bangalore,22,75,5.8,14,Rainy
+2026-01-02,Chennai,31,65,0.0,18,Sunny
+2026-01-02,Hyderabad,28,50,0.0,11,Sunny
+2026-01-03,Bangalore,25,62,0.0,9,Sunny
+2026-01-03,Chennai,30,78,3.4,16,Cloudy
+2026-01-03,Hyderabad,27,58,2.0,13,Cloudy
+2026-01-04,Bangalore,21,80,8.5,17,Rainy
+2026-01-04,Chennai,28,82,6.2,20,Rainy
+2026-01-04,Hyderabad,25,65,4.1,12,Rainy
+2026-01-05,Bangalore,23,70,1.0,10,Cloudy
+2026-01-05,Chennai,32,60,0.0,14,Sunny
+2026-01-05,Hyderabad,29,48,0.0,9,Sunny
